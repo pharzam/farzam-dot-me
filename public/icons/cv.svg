@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="CV icon">
+  <rect width="24" height="24" rx="4" fill="#111" />
+  <path
+    fill="#fff"
+    d="M6.7 7.2h3.2v1.5H8.4v6.6h1.5v1.5H6.7zm6.1 0h1.8l2.6 9.6h-1.7l-.5-2h-2.7l-.5 2H9.9zm1.2 2.5-.9 3.6h1.8z"
+  />
+</svg>
