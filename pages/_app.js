@@ -43,7 +43,9 @@ export default function Nextra({ Component, pageProps }) {
           </a>
         </nav>
       )}
-      <Component {...pageProps} />
+      <div data-route={router.pathname}>
+        <Component {...pageProps} />
+      </div>
     </>
   )
 }

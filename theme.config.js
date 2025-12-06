@@ -51,6 +51,20 @@ export default {
             />
           </a>
         ))}
+        <a
+          href="/cv.pdf"
+          target="_blank"
+          rel="noreferrer"
+          style={{ display: 'inline-flex' }}
+        >
+          <img
+            src="/icons/cv.svg"
+            alt="Download CV"
+            width="20"
+            height="20"
+            style={{ display: 'block' }}
+          />
+        </a>
       </div>
     </footer>
   )
